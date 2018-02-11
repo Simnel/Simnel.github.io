@@ -1,0 +1,21 @@
+
+h1 {
+	color:red;
+}
+
+body {
+	background: url("../imgs_2/sky.jpg");
+	background-size: cover;
+	}
+.title {
+	color: red;
+	font-size: 50px
+
+}
+.flat {
+	width: 20px;
+	height:20px;
+}
+a: link {
+	color: red;
+}

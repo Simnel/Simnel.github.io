@@ -1,0 +1,37 @@
+
+body {
+	background-color: pink;
+
+}
+.fashion {
+	color: brown;
+	text-align: center;
+}
+
+.flat{
+	width: 300px;
+	height: 300x;
+	margin-right: 100px
+}
+.shoe{
+	width: 300px;
+	height: 300px;
+}
+.ladies{
+	width: 300px;
+	height: 300px;
+
+}
+
+.dropdown-toggle{
+	color: white;
+}
+.fashion2{
+	width: 200px;
+	height: 200px;
+	margin: auto;
+}
+.text{
+	font-size: 15px;
+}
+
